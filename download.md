@@ -20,6 +20,10 @@ title: 下载
 
 - [gmt-5.2.1-darwin-x86_64](ftp://ftp.soest.hawaii.edu/gmt/bin/gmt-5.2.1-darwin-x84_64.dmg)
 
+---
+
 ### 文档下载
+
+---
 
 ### 数据下载
