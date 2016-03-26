@@ -1,7 +1,6 @@
 ---
 layout: default
 title: 新闻
-permalink: blog
 ---
 
 <section class="archive">

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 文档
-permalink: /docs/
 ---
 
 GMT中文社区维护的中文文档分为三个：
