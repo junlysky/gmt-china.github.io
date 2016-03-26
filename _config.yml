@@ -1,0 +1,12 @@
+name: GMT中文社区
+description: 面向GMT中文用户的小众社区
+author: GMT中文社区
+
+permalink: /:title
+
+url:
+baseurl:
+
+sass:
+  sass_dir: public/css
+  style: :compressed

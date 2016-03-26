@@ -1,0 +1,18 @@
+- url: /
+  title: 主页
+
+- url: /docs
+  title: 文档
+
+- url: http://ask.gmt-china.org
+  title: 论坛
+
+- url: /blog
+  title: 新闻
+
+- url: /download
+  title: 下载
+
+- url: /about
+  title: 关于
+
