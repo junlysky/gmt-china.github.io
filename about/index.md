@@ -3,37 +3,31 @@ layout: page
 title: 关于
 ---
 
-### 关于社区
+GMT中文社区是由 [seisman](http://seisman.info) 创建的面向GMT中文用户的非盈利社区。
 
-GMT中文社区是由 [seisman](http://seisman.info) 创建的面向GMT中文用户的非盈利性社区。
-
-GMT中文社区的目标：
+社区的目标：
 
 1. 为GMT中文用户提供优质的GMT学习资源
-2. 持续维护GMT相关文档
-3. 小众
-4. 仅专注于GMT
+2. 由社区成员协同维护GMT中文文档
+3. 专注于GMT，保持小众的特色
+4. 开展线下活动（聚餐？培训？）
 
 ### 社区维护人员
 
-姓名 | 开始时间 | 结束时间
------|----------|----------
-[seisman](mailto:seisman.info@gmail.com) | 2016-03-21 |
+- [seisman](mailto:seisman.info@gmail.com): 2016-03-20 至今
 
-### 关于费用
+### 费用
 
-目前维持整个社区正常运行所需的费用主要包括域名费用、主机费用。未来，根据社区的发展状况，可能会存在SSL证书费用以及流量费用。
+维持整个社区正常运行所需的费用包括域名费用、主机费用以及流量费用。
 
-目前所有的费用由 [seisman](http://seisman.info) 承担。以后，会根据实际情况决定是否有必要向社区成员发起众筹。
-
-若发起众筹，考虑到社区的非盈利性质，将公开社区的支出（收据或发票），并在众筹达到金额后立即停止。
+目前所有的费用由 [seisamn](http://seisman.info) 承担。以后，会根据费用的数额决定是否定期向社区成员发起众筹。鉴于社区的非盈利性质，若决定发起众筹，会公开社区的支出明细（收据或发票），并严格限定众筹的金额。
 
 ### 致谢
 
 整个社区的建立和维护使用了众多免费的项目，在此一并致谢：
 
-- [DNSPod](https://www.dnspod.cn)：提供DNS解析
 - [GitHub](https://github.com)：整个社区的源码以及网页都托管在GitHub上
+- [DNSPod](https://www.dnspod.cn)：提供DNS解析
 - [Jekyll](https://jekyllrb.com/)：社区主页的网站生成工具
 - [brume](https://github.com/aigarsdz/brume)：社区主页所使用的主题
 - [Sphinx](http://www.sphinx-doc.org)：社区中文文档的生成工具

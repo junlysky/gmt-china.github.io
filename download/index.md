@@ -7,6 +7,8 @@ title: 下载
 
 #### Windows用户
 
+GMT 5.2.1的Windows安装包有问题，建议Windows用户暂时使用GMT 5.1.2。如果你的Windows是英文系统，也可以将报错信息截图报告给GMT开发者。
+
 - [gmt-5.2.1-win32](ftp://ftp.soest.hawaii.edu/gmt/bin/gmt-5.2.1-win32.exe)
 - [gmt-5.2.1-win64](ftp://ftp.soest.hawaii.edu/gmt/bin/gmt-5.2.1-win64.exe)
 
@@ -23,6 +25,9 @@ title: 下载
 ---
 
 ### 文档下载
+
+- GMT参考手册5.2.1版：暂无
+- GMT模块手册5.2.1版：暂无
 
 ---
 
