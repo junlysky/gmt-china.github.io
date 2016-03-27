@@ -7,18 +7,18 @@ title: 下载
 
 #### Windows用户
 
-- [gmt-5.2.1-win32](http://pan.baidu.com/s/1i5m4bml)
-- [gmt-5.2.1-win64](http://pan.baidu.com/s/1gfDC27D)
+- [gmt-5.2.1-win32](http://pan.baidu.com/s/1cbSWLw)
+- [gmt-5.2.1-win64](http://pan.baidu.com/s/1pLN58AB)
 
 #### Linux用户
 
-- [gmt-5.2.1-src](http://pan.baidu.com/s/1nvzTbZF)
-- [gshhg-gmt-2.3.4](http://pan.baidu.com/s/1mhWiSje)
-- [dcw-gmt-1.1.2](http://pan.baidu.com/s/1nv9w3yT)
+- [gmt-5.2.1-src](http://pan.baidu.com/s/1nuDPYY1)
+- [gshhg-gmt-2.3.4](http://pan.baidu.com/s/1dFM4bct)
+- [dcw-gmt-1.1.2](http://pan.baidu.com/s/1qYP5xnQ)
 
 #### Mac用户
 
-- [gmt-5.2.1-darwin-x86_64](http://pan.baidu.com/s/1sltFqOX)
+- [gmt-5.2.1-darwin-x86_64](http://pan.baidu.com/s/1jIfGx7o)
 
 ---
 
