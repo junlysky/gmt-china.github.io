@@ -7,20 +7,18 @@ title: 下载
 
 #### Windows用户
 
-GMT 5.2.1的Windows安装包有问题，建议Windows用户暂时使用GMT 5.1.2。如果你的Windows是英文系统，也可以将报错信息截图报告给GMT开发者。
-
-- [gmt-5.2.1-win32](ftp://ftp.soest.hawaii.edu/gmt/bin/gmt-5.2.1-win32.exe)
-- [gmt-5.2.1-win64](ftp://ftp.soest.hawaii.edu/gmt/bin/gmt-5.2.1-win64.exe)
+- [gmt-5.2.1-win32](http://pan.baidu.com/s/1i5m4bml)
+- [gmt-5.2.1-win64](http://pan.baidu.com/s/1gfDC27D)
 
 #### Linux用户
 
-- [gmt-5.2.1-src](ftp://ftp.soest.hawaii.edu/gmt/gmt-5.2.1-src.tar.gz)
-- [gshhg-gmt-2.3.4](ftp://ftp.soest.hawaii.edu/gmt/gshhg-gmt-2.3.4.tar.gz)
-- [dcw-gmt-1.1.2](ftp://ftp.soest.hawaii.edu/gmt/dcw-gmt-1.1.2.tar.gz)
+- [gmt-5.2.1-src](http://pan.baidu.com/s/1nvzTbZF)
+- [gshhg-gmt-2.3.4](http://pan.baidu.com/s/1mhWiSje)
+- [dcw-gmt-1.1.2](http://pan.baidu.com/s/1nv9w3yT)
 
 #### Mac用户
 
-- [gmt-5.2.1-darwin-x86_64](ftp://ftp.soest.hawaii.edu/gmt/bin/gmt-5.2.1-darwin-x84_64.dmg)
+- [gmt-5.2.1-darwin-x86_64](http://pan.baidu.com/s/1sltFqOX)
 
 ---
 
