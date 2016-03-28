@@ -2,4 +2,4 @@
 set -e # halt script on error
 
 bundle exec jekyll build
-bundle exec htmlproofer ./_site --url_ignore=['http:\/\/pan.baidu.com\/s\/\w+']
+bundle exec htmlproofer ./_site --url-ignore='/http:\/\/pan.baidu.com\/s\/\w+/','http://forum.gmt-china.org'
