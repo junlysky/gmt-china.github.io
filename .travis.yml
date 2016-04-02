@@ -2,6 +2,10 @@ language: ruby
 rvm:
   - 2.1
 
+branches:
+  only:
+    - master
+
 script: ./script/cibuild
 
 env:
