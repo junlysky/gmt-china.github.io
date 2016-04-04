@@ -10,4 +10,5 @@ gmt psxy -J -R -Sc0.2c -Gorange -W0.1p,black,solid -: -O >> $file << EOF
 25.2 110.2 桂林
 EOF
 sed -i 's/^%%Title:.*/%%Title: '"$title/" $file
-rm gmt.*
+gmt psconvert -A -P -Tg $file
+rm gmt.* $file
