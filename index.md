@@ -3,7 +3,7 @@ layout: default
 title: 首页
 ---
 
-GMT，全称Generic Mapping Tools，是用于绘制地图的开源绘图工具，其被全球大量地球科学的工作者所使用。
+GMT，全称Generic Mapping Tools，是一种开源地图绘制工具，广泛应用于全球地学界。
 
 GMT中文社区是为GMT中文用户而建立的小众社区。首次访问社区主页的用户，可以先看看[关于](http://gmt-china.org/about/)页面中社区的相关信息，也可以看看社区最近的[新闻](http://gmt-china.org/blog/)。
 
