@@ -1,0 +1,54 @@
+<div id="map"></div>
+<script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+<script type="text/javascript" src="{{site.baseurl}}/public/js/Leaflet.Coordinates-0.1.5.min.js"></script>
+<script type="text/javascript" src="{{site.baseurl}}/public/js/Leaflet.ChineseTmsProviders.min.js"></script>
+<script src="{{site.baseurl}}/public/js/user-distribution.js" type="text/javascript"></script>
+<script>
+
+    var map = L.map("map",{
+        center:[30, 185], // 中心坐标
+        zoom: 2,          // 初始放大倍数
+        layers: L.layerGroup([
+            L.tileLayer.chinaProvider('TianDiTu.Normal.Map',{maxZoom:18,minZoom:1}),
+            L.tileLayer.chinaProvider('TianDiTu.Normal.Annotion',{maxZoom:18,minZoom:1})
+        ]),
+    });
+
+    L.geoJson(Institutions, {
+        onEachFeature: function (feature, layer) {
+            if (feature.properties && feature.properties.popupContent) {
+                layer.bindPopup(feature.properties.popupContent);
+            }
+        },
+        pointToLayer: function (feature, latlng) {
+            return L.circleMarker(latlng, {
+                radius: 7,
+                fillColor: "#ff7800",
+                color: "#000",
+                weight: 1,
+                opacity: 0.8,
+                fillOpacity: 0.8,
+            });
+        }
+    }).addTo(map);
+
+    // control that shows state info on hover
+    var info = L.control();
+
+    info.onAdd = function (map) {
+        this._div = L.DomUtil.create('div', 'info');
+        this._div.innerHTML = '<h4>GMT中文用户全球分布图</h4>更新于2016年4月7日'
+        return this._div;
+    };
+
+    info.addTo(map);
+
+
+    //add standard controls
+    L.control.coordinates({
+        position:"bottomleft",
+        decimals:'6',
+        labelTemplateLat:"Lat: {y}", //optional default "Lat: {y}"
+        labelTemplateLng:"Lon: {x}", //optional default "Lng: {x}"
+    }).addTo(map);
+</script>
