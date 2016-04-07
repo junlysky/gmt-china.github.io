@@ -16,8 +16,9 @@
 
     L.geoJson(Institutions, {
         onEachFeature: function (feature, layer) {
-            if (feature.properties && feature.properties.popupContent) {
-                layer.bindPopup(feature.properties.popupContent);
+            if (feature.properties && feature.properties.city && feature.properties.name) {
+                var popupContent = '<b>' + feature.properties.city + '</b><br />'  + feature.properties.name;
+                layer.bindPopup(popupContent);
             }
         },
         pointToLayer: function (feature, latlng) {

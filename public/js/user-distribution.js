@@ -8,7 +8,8 @@ var Institutions = {
             },
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>合肥市</b> <br /> 中国科学技术大学 地球和空间科学学院"
+                "city": "合肥市",
+                'name': "中国科学技术大学 地球和空间科学学院",
             },
         },
     ]
