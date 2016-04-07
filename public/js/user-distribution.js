@@ -12,5 +12,16 @@ var Institutions = {
                 'name': "中国科学技术大学 地球和空间科学学院",
             },
         },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [110.2971, 25.0667]
+            },
+            "type": "Feature",
+            "properties": {
+                "city": "桂林市",
+                'name': "桂林理工大学 地球科学学院",
+            },
+        },
     ]
 };
