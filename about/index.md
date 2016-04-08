@@ -15,6 +15,7 @@ GMT中文社区是由 [seisman](http://seisman.info) 创建的面向GMT中文用
 ### 社区维护人员
 
 - [seisman](mailto:seisman.info@gmail.com): 2016-03-20 至今
+- [王亮](mailto:wangliang0222@foxmail.com): 2016-03-20 至今
 
 ### 费用
 
