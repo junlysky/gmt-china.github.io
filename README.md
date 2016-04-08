@@ -8,4 +8,4 @@
 
 #### GMT中文用户全球分布图
 
-若要添加新位置到图中，需要修改 `public/js/user-distribution.js`
+若要添加新位置到图中，需要修改 `public/js/user-distribution.js` ，并更新 `_includes/leaflet-map.html` 中的最后更新日期。
