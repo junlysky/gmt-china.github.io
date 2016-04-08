@@ -9,11 +9,11 @@ GMT中文社区是为GMT中文用户而建立的小众社区。首次访问社�
 
 社区内包含了大量的GMT相关资源：
 
-- [下载](http://gmt-china.org/download/)页面中可以下载最新的GMT安装包
+- [下载](http://gmt-china.org/download/)页面中可以下载最新的GMT安装包、文档以及相关数据
 - [文档](http://gmt-china.org/docs/)页面中包含了社区翻译和维护的中文文档，包括参考手册、模块手册和示例集
 - [问答论坛](http://forum.gmt-china.org/)是一个提问与交流的好地方
 
 {% include leaflet-map.html %}
-<small>想把自己所在的单位也标记在图中？请发送单位名称以及具体经纬度到 admin@gmt-china.org。</small>
+<h6>想把自己所在的单位也标记在图中？请发送单位名称以及具体经纬度到 admin@gmt-china.org。</h6>
 
 <br/>
