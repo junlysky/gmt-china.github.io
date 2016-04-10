@@ -34,5 +34,16 @@ var Institutions = {
                 "name": "Department of Geosciences, State University of New York at Stony Brook",
             },
         },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [114.361019, 30.577544]
+            },
+            "type": "Feature",
+            "properties": {
+                "city": "武汉市",
+                "name": "中国科学院 测量与地球物理研究所",
+            },
+        },
     ]
 };
