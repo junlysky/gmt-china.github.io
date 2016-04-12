@@ -45,5 +45,27 @@ var Institutions = {
                 "name": "中国科学院 测量与地球物理研究所",
             },
         },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [113.358082, 23.147038]
+            },
+            "type": "Feature",
+            "properties": {
+                "city": "广州市",
+                "name": "中国科学院 广州地球化学研究所",
+            },
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [114.346256, 30.542142]
+            },
+            "type": "Feature",
+            "properties": {
+                "city": "武汉市",
+                "name": "中国地震局地震研究所",
+            },
+        },
     ]
 };
