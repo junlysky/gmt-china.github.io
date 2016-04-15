@@ -1,0 +1,53 @@
+id: 0
+lat: 31.8413392
+lon: 117.2703752
+city: 合肥市
+name: 中国科学技术大学 地球和空间科学学院
+
+id: 1
+lat: 25.063901
+lon: 110.303073
+city: 桂林市
+name: 桂林理工大学 地球科学学院
+
+id: 2
+lat: 40.9147488
+lon: -73.125765
+city: Stony Brook
+name: Department of Geosciences, State University of New York at Stony Brook
+
+id: 3
+lat: 30.5748013
+lon: 114.366316
+city: 武汉市
+name: 中国科学院 测量与地球物理研究所
+
+id: 4
+lat: 23.1442459
+lon: 113.3633297
+city: 广州市
+name: 中国科学院 广州地球化学研究所
+
+id: 5
+lat: 30.5396204
+lon: 114.3519557
+city: 武汉市
+name: 中国地震局地震研究所
+
+id: 6
+lat: 39.991768
+lon: 116.3142595
+city: 北京市
+name: 北京大学 地球与空间科学学院
+
+id: 7
+lat: 32.055826
+lon: 118.781832
+city: 南京市
+name: 南京大学 地球科学系
+
+id: 8
+lat: 39.947662
+lon: 116.315618
+city: 北京市
+name: 中国地震局地球物理研究所

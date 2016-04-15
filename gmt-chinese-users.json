@@ -1,76 +1,121 @@
 {
     "type": "FeatureCollection",
     "features": [
+
         {
             "id": 0,
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [117.2703752, 31.8413392]
+                "coordinates": [117.270375, 31.841339]
             },
             "properties": {
-                "city": "合肥市",
-                "name": "中国科学技术大学 地球和空间科学学院"
+                "city": " 合肥市",
+                "name": " 中国科学技术大学 地球和空间科学学院"
             }
         },
+
         {
             "id": 1,
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [110.303073,25.063901]
+                "coordinates": [110.303073, 25.063901]
             },
             "properties": {
-                "city": "桂林市",
-                "name": "桂林理工大学 地球科学学院"
+                "city": " 桂林市",
+                "name": " 桂林理工大学 地球科学学院"
             }
         },
+
         {
             "id": 2,
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-73.125765, 40.9147488]
+                "coordinates": [-73.125765, 40.914749]
             },
             "properties": {
-                "city": "Stony Brook",
-                "name": "Department of Geosciences, State University of New York at Stony Brook"
+                "city": " Stony Brook",
+                "name": " Department of Geosciences, State University of New York at Stony Brook"
             }
         },
+
         {
             "id": 3,
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [114.366316, 30.5748013]
+                "coordinates": [114.366316, 30.574801]
             },
             "properties": {
-                "city": "武汉市",
-                "name": "中国科学院 测量与地球物理研究所"
+                "city": " 武汉市",
+                "name": " 中国科学院 测量与地球物理研究所"
             }
         },
+
         {
             "id": 4,
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [113.3633297, 23.1442459]
+                "coordinates": [113.363330, 23.144246]
             },
             "properties": {
-                "city": "广州市",
-                "name": "中国科学院 广州地球化学研究所"
+                "city": " 广州市",
+                "name": " 中国科学院 广州地球化学研究所"
             }
         },
+
         {
             "id": 5,
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [114.3519557, 30.5396204]
+                "coordinates": [114.351956, 30.539620]
             },
             "properties": {
-                "city": "武汉市",
-                "name": "中国地震局地震研究所"
+                "city": " 武汉市",
+                "name": " 中国地震局地震研究所"
+            }
+        },
+
+        {
+            "id": 6,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [116.314260, 39.991768]
+            },
+            "properties": {
+                "city": " 北京市",
+                "name": " 北京大学 地球与空间科学学院"
+            }
+        },
+
+        {
+            "id": 7,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [118.781832, 32.055826]
+            },
+            "properties": {
+                "city": " 南京市",
+                "name": " 南京大学 地球科学系"
+            }
+        },
+
+        {
+            "id": 8,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [116.315618, 39.947662]
+            },
+            "properties": {
+                "city": " 北京市",
+                "name": " 中国地震局地球物理研究所"
             }
         }
     ]
