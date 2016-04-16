@@ -13,7 +13,7 @@ title: 下载
 #### Linux用户
 
 - [gmt-5.2.1-src](http://caiyun.feixin.10086.cn/dl/185CkwoZt6Vn2)
-- [gshhg-gmt-2.3.4](http://caiyun.feixin.10086.cn/dl/185CkIr2gPf4c)
+- [gshhg-gmt-2.3.5](http://caiyun.feixin.10086.cn/dl/185Cjel75oRCE)
 - [dcw-gmt-1.1.2](http://caiyun.feixin.10086.cn/dl/185CkwoXXltBB)
 
 #### Mac用户
@@ -49,3 +49,7 @@ title: 下载
 [SRTM30_PLUS]: http://topex.ucsd.edu/WWW_html/srtm30_plus.html
 [SRTM15_PLUS]: http://topex.ucsd.edu/WWW_html/mar_topo.html
 [SRTM]:http://srtm.csi.cgiar.org/SELECTION/inputCoord.asp
+
+### 已过时版本
+
+- [gshhg-gmt-2.3.4](http://caiyun.feixin.10086.cn/dl/185CkIr2gPf4c)
